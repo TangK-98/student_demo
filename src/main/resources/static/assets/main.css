@@ -1,0 +1,32 @@
+.filters {
+    padding: 10px 15px;
+    margin-bottom: 14px;
+}
+
+.filters .filter:last-child {
+    margin-bottom: 0;
+}
+
+.filters .filter {
+    list-style: none;
+    margin: 0 0 5px;
+    padding: 0;
+}
+
+.filters .filter > li {
+    display: inline-block;
+    margin-right: 10px;
+    padding: 5px;
+    list-style: none;
+}
+
+.filters .filter > li label {
+    font-weight: 400;
+    min-width: 80px;
+}
+
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+}
