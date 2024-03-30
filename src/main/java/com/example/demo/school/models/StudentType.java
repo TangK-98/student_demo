@@ -9,6 +9,8 @@ import javax.persistence.*;
  * @Author TangK
  * @name：StudentType
  * @Date：2024/3/30
+ *
+ * 学生类型实体类
  */
 @Entity
 @Data
